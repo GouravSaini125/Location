@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tracking</string>
+    <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
+    <string name="test_email">aa@aa.aa</string>
+    <string name="test_password">123456</string>
+    <string name="firebase_path">location</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+
+    <string-array name="users">
+        <item>Sanchit</item>
+        <item>Gourav</item>
+    </string-array>
+</resources>
